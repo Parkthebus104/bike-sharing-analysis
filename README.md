@@ -1,7 +1,5 @@
 Case Study: Bike-sharing
 ================
-Abhinav
-2022-09-29
 
 ## R Markdown
 
