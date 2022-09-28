@@ -1,4 +1,3 @@
-# bike-sharing-analysis
 Case Study: Bike-sharing
 ================
 Abhinav
