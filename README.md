@@ -199,7 +199,7 @@ ggplot(trips_data) + geom_bar(mapping = aes(x = age_category, fill = usertype)) 
   scale_y_continuous(trans = 'log10')
 ```
 
-![](Documentation_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![image](https://user-images.githubusercontent.com/56858811/192867468-40627f4c-4e09-461d-a4c7-c4cc13f4ecaf.png)
 
 ### Trip duration summary across different categories
 
@@ -257,4 +257,4 @@ ggplot(trips_data) + geom_bar(mapping = aes(x = month, fill = usertype)) +
   scale_y_continuous(labels = comma)
 ```
 
-![](Documentation_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+![image](https://user-images.githubusercontent.com/56858811/192867530-c5843e0a-3e78-440d-a11c-411ac2c19c17.png)
